@@ -1,4 +1,7 @@
-# Fullstack Practice A
+# Fullstack Practice
+
+# Fullstack Practice B
+
 
 ## About
 This repository is for fullstack practice.
