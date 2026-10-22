@@ -1,7 +1,5 @@
-# Fullstack Practice
+## GitHub bilan ishlash
 
-# Fullstack Practice B
-
-
-## About
-This repository is for fullstack practice.
+- Remote repo: `origin`
+- Asosiy branch: `main`
+- O'zgarishlar Pull Request orqali qo'shiladi
